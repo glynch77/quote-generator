@@ -13,3 +13,7 @@ Just open `index.html` in your browser, or use a live server extension in VS Cod
 - `index.html` — page structure
 - `style.css` — styling
 - `script.js` — quote data and logic
+
+## Website for quote API
+
+https://api-ninjas.com/
